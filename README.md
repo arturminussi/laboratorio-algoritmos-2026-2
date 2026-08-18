@@ -1,1 +1,0 @@
-# laboratorio-algoritmos-2026-2
